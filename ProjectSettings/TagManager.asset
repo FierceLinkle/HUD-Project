@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - ManaPickup
+  - HealthPickup
+  - Town
+  - Forest
+  - Mountain
+  - EnemyCamp
+  - GrassyLands
+  - Quest1
+  - Quest2
+  - Quest3
+  - Quest4
+  - Quest5
+  - Volcano
+  - PartyMember1
+  - PartyMember2
+  - MountainPeak
+  - EnemyHitbox
+  - Swords
+  - Shields
+  - Magic
+  - Flame Hit Box
+  - Thunder Hit Box
+  - Ice Hit Box
+  - MountainPeakQuest
+  - ForestMysteryQuest
+  - VolcanoRingQuest
+  - Swordhitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ignore Lighting
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
